@@ -1,7 +1,8 @@
 {
-  "name": "tech-guru",
+  "name": "tecno-guru-x-blog",
   "version": "1.0.0",
   "private": true,
+  "description": "A blog for the Tecno Guru X community",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
